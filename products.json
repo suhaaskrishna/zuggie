@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "name":" Iphone 13 pro",
+        "price": 1000,
+        "image": "iphone 13 pro.png"
+    },
+    {
+        "id": 2,
+        "name":"Airpods",
+        "price": 250,
+        "image": "a1.png"
+    },
+    {
+        "id": 3,
+        "name":"Laptop",
+        "price": 1290,
+        "image": "laptop2.png"
+    },
+    {
+        "id": 4,
+        "name":"Ipad",
+        "price": 1200,
+        "image": "t1.png"
+    },
+    {
+        "id": 5,
+        "name":"SmartWatch",
+        "price": 300,
+        "image": "pr9.png"
+    },
+    {
+        "id": 6,
+        "name":"PC Monitor",
+        "price": 800,
+        "image": "pr8.png"
+    },
+    {
+        "id": 7,
+        "name":"Iphone X",
+        "price": 200,
+        "image": "phone1.png"
+    },
+    {
+        "id": 8,
+        "name":"Headphone",
+        "price": 200,
+        "image": "h1.png"
+    },
+    {
+        "id": 9,
+        "name":"Washing Machine",
+        "price": 2200,
+        "image": "pr1.png"
+    },
+    {
+        "id": 10,
+        "name":"Air Conditioner",
+        "price": 1200,
+        "image": "ac1.png"
+    },
+    {
+        "id": 11,
+        "name":"Microwave Oven",
+        "price": 900,
+        "image": "pr3.png"
+    },
+    {
+        "id": 12,
+        "name":"Refrigerator",
+        "price": 3400,
+        "image": "pr4.png"
+    },
+    {
+        "id": 13,
+        "name":"Fan",
+        "price": 50,
+        "image": "pr5.png"
+    },
+    {
+        "id": 14,
+        "name":"Fridge",
+        "price": 2450,
+        "image": "pr6.png"
+    },
+    {
+        "id": 15,
+        "name":"Monitor",
+        "price": 1290,
+        "image": "pcm1.png"
+    },
+    {
+        "id": 16,
+        "name":"Cooler",
+        "price": 1200,
+        "image": "pr2.png"
+    },
+    {
+        "id": 17,
+        "name":"Mouse",
+        "price": 300,
+        "image": "pr11.png"
+    },
+    {
+        "id": 18,
+        "name":"CPU",
+        "price": 800,
+        "image": "pr7.png"
+    },
+    {
+        "id": 19,
+        "name":"Android Mobile",
+        "price": 2100,
+        "image": "phone2.png"
+    },
+    {
+        "id": 20,
+        "name":"DSLR Camera",
+        "price": 200,
+        "image": "dslr camera.png"
+    }
+    
+
+]
